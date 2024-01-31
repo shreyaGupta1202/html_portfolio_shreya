@@ -1,0 +1,27 @@
+body{
+    background-color:lightblue;
+
+}
+h1{
+    color:white;
+    text-align:center;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.hovertest{
+    font-size: 30px;
+    color: lavender;
+
+}
+.hovertest:hover{
+    font-size: 45px;
+}
+#shreya{
+    position:absolute;
+    left: 50px;
+    color: yellow;
+    height: max(20%,60%-30px);
+    width: calc(100%-10px);
+}
